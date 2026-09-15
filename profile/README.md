@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.png" alt="Magnet Dev — Technology engineered for business growth" width="100%">
+<img src="./assets/banner.png" alt="Magnet Dev — Technology engineered for business growth" width="100%">
 
 <br>
 
