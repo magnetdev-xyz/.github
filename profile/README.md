@@ -109,6 +109,8 @@ We choose technology based on the problem — not the trend.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 
 ### Backend & Data
@@ -117,29 +119,122 @@ We choose technology based on the problem — not the trend.
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=database&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square">
+<img src="https://img.shields.io/badge/WebSockets-111111?style=flat-square">
+</p>
+
+### CMS & E-Commerce
+
+<p>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white">
+<img src="https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white">
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white">
+<img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white">
+<img src="https://img.shields.io/badge/Headless%20CMS-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Custom%20CMS-111111?style=flat-square">
 </p>
 
 ### AI & Automation
 
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
-<img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square">
-<img src="https://img.shields.io/badge/RAG-111111?style=flat-square">
 <img src="https://img.shields.io/badge/LLM%20Applications-111111?style=flat-square">
+<img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Agentic%20AI-111111?style=flat-square">
+<img src="https://img.shields.io/badge/RAG-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Embeddings-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Vector%20Search-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=flat-square">
+<img src="https://img.shields.io/badge/AI%20Integrations-111111?style=flat-square">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white">
+</p>
+
+### Automation & Integrations
+
+<p>
+<img src="https://img.shields.io/badge/Workflow%20Automation-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Business%20Process%20Automation-111111?style=flat-square">
+<img src="https://img.shields.io/badge/CRM%20Automation-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Marketing%20Automation-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Webhooks-111111?style=flat-square">
+<img src="https://img.shields.io/badge/API%20Integrations-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Third--Party%20Integrations-111111?style=flat-square">
+<img src="https://img.shields.io/badge/OAuth-111111?style=flat-square">
+</p>
+
+### CRM & Business Systems
+
+<p>
+<img src="https://img.shields.io/badge/CRM%20Systems-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Lead%20Management-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Sales%20Automation-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Customer%20Experience-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Business%20Dashboards-111111?style=flat-square">
+<img src="https://img.shields.io/badge/ERP%20Integrations-111111?style=flat-square">
+</p>
+
+### Databases & Storage
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Vector%20Databases-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Database%20Design-111111?style=flat-square">
 </p>
 
 ### Infrastructure & Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Git- F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/CI%2FCD-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Cloud%20Deployment-111111?style=flat-square">
 </p>
 
+### UI/UX & Product Design
+
+<p>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/UI%2FUX-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Product%20Design-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Design%20Systems-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Responsive%20Design-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Prototyping-111111?style=flat-square">
+</p>
+
+### SEO, Analytics & Digital Growth
+
+<p>
+<img src="https://img.shields.io/badge/Technical%20SEO-111111?style=flat-square">
+<img src="https://img.shields.io/badge/On--Page%20SEO-111111?style=flat-square">
+<img src="https://img.shields.io/badge/SEO%20Audits-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Search%20Console-458CF5?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Conversion%20Optimization-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Digital%20Marketing-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Marketing%20Analytics-111111?style=flat-square">
+</p>
+
+### Communication & Business Integrations
+
+<p>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Email%20Automation-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Payment%20Integrations-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Third--Party%20APIs-111111?style=flat-square">
+</p>
 ---
 
 # ⚡ From Business Problem to Business Growth
