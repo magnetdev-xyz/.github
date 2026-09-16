@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[./assets/banner.png](https://github.com/magnetdev-xyz/.github/blob/main/profile/assets/banner.png)" alt="Magnet Dev — Technology engineered for business growth" width="100%">
+<img src="https://github.com/magnetdev-xyz/.github/blob/main/profile/assets/banner.png" alt="Magnet Dev — Technology engineered for business growth" width="100%">
 
 <br>
 
